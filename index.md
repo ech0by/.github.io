@@ -1,4 +1,4 @@
-welcome!
-this page will be ready for you soon, but i am still working on it.
+## Welcome to my website.
 
-you can check out my [games](./games.html) page though.
+check out these things:
+[games](./games.html) - [programming](https://resite.link/echoby) - [Youtube (coming soon)](https://blank.org) - [Twitch (coming soon)](https://blank.org)
