@@ -1,4 +1,4 @@
-[Comment]: <> (Comment to fix header)
+[Comment]: <> (Comment to fix the main header)
 
 ## Welcome to my website.
 
