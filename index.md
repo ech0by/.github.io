@@ -5,8 +5,6 @@
 
 ## Welcome to my website.
 
-check out these things:
-
 
 
 <br><br><br><br>
