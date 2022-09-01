@@ -1,4 +1,4 @@
-**Welcome to my website.**
+## Welcome to my website.
 
 check out these things:
 
@@ -19,8 +19,7 @@ i have a github and a replit (in programming above). i began to build (horrible)
 
 #### why do you type in lowercase?
 
-because I can and no one can stop me. [^1]
-[^1]: thanks [matdoesdev](https://matdoes.dev)
+because I can and no one can stop me. (thanks [matdoesdev](https://matdoes.dev))
 
 #### what languages do you know?
 
