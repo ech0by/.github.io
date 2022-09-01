@@ -5,8 +5,6 @@
 
 ## Welcome to my website.
 
-
-
 <br><br><br><br>
 
 ## FAQ
