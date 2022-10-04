@@ -30,4 +30,4 @@ python, javascript, html, css, trying to learn c++, english, learning spanish.
 [Comment]: <> (End of Page)
 
 <br><br><br><br><br><br><br><br>
-<a href="https://github.com/ech0by/ech0by.github.io"><p style="text-align: center">source code</p></a>
+<p style="text-align: center"><a href="https://github.com/ech0by/ech0by.github.io">source code</a></p>
