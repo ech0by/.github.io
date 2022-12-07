@@ -1,0 +1,1 @@
+[home](./) - [games](./p/games.html) - [programming accounts](https://resite.link/echoby) - [Youtube](https://www.youtube.com/channel/UC9q3zBwLP5U1O-lQibU9r7g/videos?view=57) - [projects](./p/projects)

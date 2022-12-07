@@ -1,6 +1,6 @@
 [Comment]: <> (Comment to fix the main header)
 
-[home](./) - [games](./games.html) - [programming](https://resite.link/echoby) - [Youtube](https://www.youtube.com/channel/UC9q3zBwLP5U1O-lQibU9r7g/videos?view=57)
+[home](./) - [games](./p/games.html) - [programming accounts](https://resite.link/echoby) - [Youtube](https://www.youtube.com/channel/UC9q3zBwLP5U1O-lQibU9r7g/videos?view=57) - [projects](./p/projects)
 
 
 ## Welcome to my website.
